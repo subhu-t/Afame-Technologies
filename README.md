@@ -24,8 +24,8 @@ A model that uses a tree-like graph of decisions and their possible consequences
 
 The performance of each model is evaluated using metrics such as accuracy  Below is a summary of the results:
 
-    Algorithm	           Accuracy
-    LogisticRegression	  0.994139
+    Algorithm	          Accuracy
+    LogisticRegression	 0.994139
     RandomForestClassifier	 0.997424
    	DecisionTreeClassifier	 0.995866
   
