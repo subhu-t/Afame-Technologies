@@ -20,6 +20,9 @@ An ensemble method that builds multiple decision trees and merges them to get a 
 ### Decision Tree
 A model that uses a tree-like graph of decisions and their possible consequences.
 
+## Screenshots
+
+
 ## Results
 
 The performance of each model is evaluated using metrics such as accuracy  Below is a summary of the results:
